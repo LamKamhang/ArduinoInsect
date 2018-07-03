@@ -10,37 +10,37 @@
 #### Description
 
 .
-â”œâ”€â”€ Fritzingè¿žçº¿å›¾
-â”‚   â”œâ”€â”€ è¿žçº¿å›¾.fzz
-â”‚   â””â”€â”€ è¿žçº¿å›¾.pdf
-â”œâ”€â”€ LICENSE
-â”œâ”€â”€ README.md
-â”œâ”€â”€ ä½œå“å›¾ç‰‡
-â”‚   â”œâ”€â”€ åŽŸä»¶å›¾
-â”‚   â””â”€â”€ ç»„è£…å›¾
-â”œâ”€â”€ åŽŸå§‹ä»£ç 
-â”‚   â””â”€â”€ ArduinoInsect
-â””â”€â”€ å¤–å›´å™¨ä»¶èµ„æ–™
-    â”œâ”€â”€ arduino pro mini.pdf
-    â”œâ”€â”€ arduino pro miniä¸‹è½½å™¨.pdf
-    â”œâ”€â”€ HC-SR04.pdf
-    â”œâ”€â”€ MG90Sèˆµæœº.pdf
-    â”œâ”€â”€ å……ç”µå®.pdf
-    â””â”€â”€ é¢åŒ…æ¿.pdf
+©À©¤©¤ FritzingÁ¬ÏßÍ¼
+©¦   ©À©¤©¤ Á¬ÏßÍ¼.fzz
+©¦   ©¸©¤©¤ Á¬ÏßÍ¼.pdf
+©À©¤©¤ LICENSE
+©À©¤©¤ README.md
+©À©¤©¤ ×÷Æ·Í¼Æ¬
+©¦   ©À©¤©¤ Ô­¼þÍ¼
+©¦   ©¸©¤©¤ ×é×°Í¼
+©À©¤©¤ Ô­Ê¼´úÂë
+©¦   ©¸©¤©¤ ArduinoInsect
+©¸©¤©¤ ÍâÎ§Æ÷¼þ×ÊÁÏ
+    ©À©¤©¤ arduino pro mini.pdf
+    ©À©¤©¤ arduino pro miniÏÂÔØÆ÷.pdf
+    ©À©¤©¤ HC-SR04.pdf
+    ©À©¤©¤ MG90S¶æ»ú.pdf
+    ©À©¤©¤ ³äµç±¦.pdf
+    ©¸©¤©¤ Ãæ°ü°å.pdf
 
-| Fritzingè¿žçº¿å›¾ | åŒ…å«fzzåŽŸä»¶ä»¥åŠå¯¼å‡ºçš„pdfå›¾                      |
+| FritzingÁ¬ÏßÍ¼ | °üº¬fzzÔ­¼þÒÔ¼°µ¼³öµÄpdfÍ¼                      |
 | -------------- | ----------------------------------------------- |
-| **ä½œå“å›¾ç‰‡**   | **åŒ…æ‹¬åŽŸä»¶å›¾ç‰‡ã€ç»„è£…å›¾ç‰‡2ä¸ªå­æ–‡ä»¶å¤¹**           |
-| **å¤–å›´èµ„æ–™**   | **ç”±äºŽåŽŸä»¶æ¯”è¾ƒç®€å•ï¼Œå‡ä¸ºæ·˜å®å–å®¶æä¾›çš„èµ„æ–™pdf** |
-| **åŽŸå§‹ä»£ç **   | **æ™ºèƒ½é¿éšœæ˜†è™«çš„æºä»£ç **                        |
+| **×÷Æ·Í¼Æ¬**   | **°üÀ¨Ô­¼þÍ¼Æ¬¡¢×é×°Í¼Æ¬2¸ö×ÓÎÄ¼þ¼Ð**           |
+| **ÍâÎ§×ÊÁÏ**   | **ÓÉÓÚÔ­¼þ±È½Ï¼òµ¥£¬¾ùÎªÌÔ±¦Âô¼ÒÌá¹©µÄ×ÊÁÏpdf** |
+| **Ô­Ê¼´úÂë**   | **ÖÇÄÜ±ÜÕÏÀ¥³æµÄÔ´´úÂë**                        |
 
 ---
 
 #### video url
 
-| ä¼˜é…·id           | LamKamhang                                                   |
+| ÓÅ¿áid           | LamKamhang                                                   |
 | ---------------- | ------------------------------------------------------------ |
-| **ä¼˜é…·ä¸»é¡µ**     | **http://i.youku.com/lamkamhang**                            |
-| **ä¼˜é…·è§†é¢‘åç§°** | **æµ™æ±Ÿå¤§å­¦ArduinoçŸ­å­¦æœŸä½œå“â€”â€”æ™ºèƒ½æ˜†è™« by kk**                |
-| **ä¼˜é…·è§†é¢‘é“¾æŽ¥** | **[[video url](http://v.youku.com/v_show/id_XMzAyMTY2OTI0OA==)]** |
+| **ÓÅ¿áÖ÷Ò³**     | **http://i.youku.com/lamkamhang**                            |
+| **ÓÅ¿áÊÓÆµÃû³Æ** | **Õã½­´óÑ§Arduino¶ÌÑ§ÆÚ×÷Æ·¡ª¡ªÖÇÄÜÀ¥³æ by kk**                |
+| **ÓÅ¿áÊÓÆµÁ´½Ó** | **[[video url](http://v.youku.com/v_show/id_XMzAyMTY2OTI0OA==)]** |
 
